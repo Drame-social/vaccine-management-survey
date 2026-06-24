@@ -1,0 +1,48 @@
+-- vms_powerbi_measures.dax
+-- Power BI measures for the synthetic Vaccine Management Survey project.
+-- Tables assumed: vaccine_order_waste_long_synthetic, core_survey_synthetic, vaccine_incidents_synthetic
+
+Total Doses Ordered = SUM(vaccine_order_waste_long_synthetic[doses_ordered])
+
+Total Doses Wasted = SUM(vaccine_order_waste_long_synthetic[doses_wasted])
+
+Vaccine Loss % = DIVIDE([Total Doses Wasted], [Total Doses Ordered])
+
+Standard Doses Ordered =
+CALCULATE(
+    [Total Doses Ordered],
+    vaccine_order_waste_long_synthetic[included_in_standard_analysis] = 1
+)
+
+Standard Doses Wasted =
+CALCULATE(
+    [Total Doses Wasted],
+    vaccine_order_waste_long_synthetic[included_in_standard_analysis] = 1
+)
+
+Standard Vaccine Loss % = DIVIDE([Standard Doses Wasted], [Standard Doses Ordered])
+
+Awardee Count = DISTINCTCOUNT(core_survey_synthetic[awardee_id])
+
+Awardees Requiring Replacement =
+CALCULATE(
+    DISTINCTCOUNT(core_survey_synthetic[awardee_id]),
+    core_survey_synthetic[requires_vaccine_replacement] = 1
+)
+
+Replacement Policy % = DIVIDE([Awardees Requiring Replacement], [Awardee Count])
+
+Total Staff = SUM(core_survey_synthetic[total_staff_count])
+
+Total Trained Staff = SUM(core_survey_synthetic[total_staff_trained])
+
+Staff Training Gap = SUM(core_survey_synthetic[total_staff_training_gap])
+
+Training Completion % = DIVIDE([Total Trained Staff], [Total Staff])
+
+Incident Dose Total = SUM(vaccine_incidents_synthetic[incident_dose_count])
+
+Waste-Incident Difference = [Total Doses Wasted] - [Incident Dose Total]
+
+Reconciliation Status =
+IF(ABS([Waste-Incident Difference]) = 0, "Matched", "Review discrepancy")
