@@ -1,0 +1,18 @@
+check_name,status,detail,checked_at_utc
+Core awardee count,PASS,64 awardees generated; expected 64,2026-06-24T17:42:55+00:00
+Vaccine long row count,PASS,"1792 rows generated; expected 1,792",2026-06-24T17:42:55+00:00
+Incident long row count,PASS,640 rows generated; expected 640,2026-06-24T17:42:55+00:00
+awardee_id unique,PASS,Core awardee IDs are unique,2026-06-24T17:42:55+00:00
+Vaccine rows have matching awardees,PASS,All vaccine rows map to core,2026-06-24T17:42:55+00:00
+Incident rows have matching awardees,PASS,All incident rows map to core,2026-06-24T17:42:55+00:00
+No negative ordered doses,PASS,All ordered doses >= 0,2026-06-24T17:42:55+00:00
+No negative wasted doses,PASS,All wasted doses >= 0,2026-06-24T17:42:55+00:00
+Wasted doses <= ordered doses,PASS,All waste values are logically possible,2026-06-24T17:42:55+00:00
+Calculated loss formula,PASS,max abs rounded diff=0.0,2026-06-24T17:42:55+00:00
+Awardee summary row count,PASS,64 summary rows; expected 64,2026-06-24T17:42:55+00:00
+Vaccine type summary row count,PASS,28 summary rows; expected 28,2026-06-24T17:42:55+00:00
+Synthetic notice present: core,PASS,All rows labeled synthetic,2026-06-24T17:42:55+00:00
+Synthetic notice present: vaccine_long,PASS,All rows labeled synthetic,2026-06-24T17:42:55+00:00
+Synthetic notice present: incidents,PASS,All rows labeled synthetic,2026-06-24T17:42:55+00:00
+Synthetic notice present: awardee_summary,PASS,All rows labeled synthetic,2026-06-24T17:42:55+00:00
+Synthetic notice present: vaccine_summary,PASS,All rows labeled synthetic,2026-06-24T17:42:55+00:00

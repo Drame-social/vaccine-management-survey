@@ -1,0 +1,6 @@
+region,awardee_count,total_staff,total_trained,total_training_gap,pct_requiring_replacement,pct_offer_all_acip,pct_delegate_authority,training_completion_pct
+Midwest,15,538,450,88,80.0,80.0,20.0,83.6
+Northeast,15,670,534,136,86.7,66.7,20.0,79.7
+South,13,621,515,106,76.9,76.9,23.1,82.9
+Territories,8,311,260,51,87.5,75.0,12.5,83.6
+West,13,386,310,76,84.6,61.5,46.2,80.3

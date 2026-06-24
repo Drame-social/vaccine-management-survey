@@ -1,0 +1,29 @@
+vaccine_type_code,vaccine_type,included_in_standard_analysis,total_doses_ordered,total_doses_wasted,awardees_with_orders,median_awardee_loss_pct,loss_pct,synthetic_data_notice
+covid,COVID-19,0,657799,64578,64,9.4345,9.817,All data are synthetic and generated solely for portfolio demonstration purposes.
+dengue,Dengue,1,12614,955,28,7.2805,7.571,All data are synthetic and generated solely for portfolio demonstration purposes.
+dtap,DTaP,1,756986,19552,63,2.544,2.583,All data are synthetic and generated solely for portfolio demonstration purposes.
+dtap_hepb_ipv,DTaP-HepB-IPV,1,325099,9477,63,2.855,2.915,All data are synthetic and generated solely for portfolio demonstration purposes.
+dtap_ipv,DTaP-IPV,1,234741,7029,64,2.9429999999999996,2.994,All data are synthetic and generated solely for portfolio demonstration purposes.
+dtap_ipv_hib,DTaP-IPV-Hib,1,139063,5463,64,3.8265000000000002,3.928,All data are synthetic and generated solely for portfolio demonstration purposes.
+dtap_ipv_hib_hepb,DTaP-IPV-Hib-HepB,1,185027,7384,64,3.7904999999999998,3.991,All data are synthetic and generated solely for portfolio demonstration purposes.
+hepa_hepb,HepA-HepB,1,67418,2977,51,4.201,4.416,All data are synthetic and generated solely for portfolio demonstration purposes.
+hepa_pediatric,HepA Pediatric,1,668378,20352,64,3.1905,3.045,All data are synthetic and generated solely for portfolio demonstration purposes.
+hepb_pediatric,HepB Pediatric,1,738656,19324,64,2.6845,2.616,All data are synthetic and generated solely for portfolio demonstration purposes.
+hib,Hib,1,633617,20865,64,3.197,3.293,All data are synthetic and generated solely for portfolio demonstration purposes.
+hpv,HPV,1,852352,20892,63,2.445,2.451,All data are synthetic and generated solely for portfolio demonstration purposes.
+influenza,Influenza,0,1319713,144984,64,10.779,10.986,All data are synthetic and generated solely for portfolio demonstration purposes.
+menabcwy,MenABCWY,1,51274,2719,48,5.015,5.303,All data are synthetic and generated solely for portfolio demonstration purposes.
+menacwy,MenACWY,1,670244,20217,63,2.864,3.016,All data are synthetic and generated solely for portfolio demonstration purposes.
+menb,MenB,1,337155,12694,64,3.5995,3.765,All data are synthetic and generated solely for portfolio demonstration purposes.
+mmr,MMR,1,650880,23036,63,3.548,3.539,All data are synthetic and generated solely for portfolio demonstration purposes.
+mmrv,MMRV,1,145742,5983,63,3.939,4.105,All data are synthetic and generated solely for portfolio demonstration purposes.
+mpox,Mpox,1,7384,641,27,7.895,8.681,All data are synthetic and generated solely for portfolio demonstration purposes.
+nirsevimab,Nirsevimab,1,375800,23183,64,6.276999999999999,6.169,All data are synthetic and generated solely for portfolio demonstration purposes.
+pcv,PCV,1,819359,22473,64,2.8225,2.743,All data are synthetic and generated solely for portfolio demonstration purposes.
+polio,Polio,1,616320,15915,64,2.6935000000000002,2.582,All data are synthetic and generated solely for portfolio demonstration purposes.
+ppv23,PPSV23,1,109454,4583,62,4.282,4.187,All data are synthetic and generated solely for portfolio demonstration purposes.
+rota,Rotavirus,1,517495,21336,62,3.542,4.123,All data are synthetic and generated solely for portfolio demonstration purposes.
+rsv_maternal,RSV Maternal,1,145724,7854,51,5.202,5.39,All data are synthetic and generated solely for portfolio demonstration purposes.
+td,Td,1,88771,3496,64,3.79,3.938,All data are synthetic and generated solely for portfolio demonstration purposes.
+tdap,Tdap,1,720193,19224,63,2.802,2.669,All data are synthetic and generated solely for portfolio demonstration purposes.
+varicella,Varicella,1,632066,23500,63,3.515,3.718,All data are synthetic and generated solely for portfolio demonstration purposes.
