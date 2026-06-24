@@ -1,0 +1,641 @@
+survey_year,awardee_id,incident_category_code,incident_category,incident_dose_count,incident_explanation_required,incident_explanation_text,synthetic_data_notice
+2024,SYN-AWD-001,expired_doses,Expired doses,4405,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,cold_chain_excursion,Cold-chain temperature excursion,3724,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,storage_unit_malfunction,Storage unit malfunction,2842,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,open_vial_waste,Open vial/unused doses,2603,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,shipment_issue,Shipment or delivery issue,1617,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,inventory_discrepancy,Inventory discrepancy,2011,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,administration_error,Administration error,1009,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,provider_closed_or_inactive,Provider closed/inactive,839,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,manufacturer_recall_or_return,Manufacturer recall/return,418,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-001,other_explained,Other explained incident,811,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,expired_doses,Expired doses,2373,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,cold_chain_excursion,Cold-chain temperature excursion,1971,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,storage_unit_malfunction,Storage unit malfunction,1535,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,open_vial_waste,Open vial/unused doses,1385,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,shipment_issue,Shipment or delivery issue,863,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,inventory_discrepancy,Inventory discrepancy,1139,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,administration_error,Administration error,521,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,provider_closed_or_inactive,Provider closed/inactive,428,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,manufacturer_recall_or_return,Manufacturer recall/return,232,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-002,other_explained,Other explained incident,415,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,expired_doses,Expired doses,1754,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,cold_chain_excursion,Cold-chain temperature excursion,1472,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,storage_unit_malfunction,Storage unit malfunction,1197,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,open_vial_waste,Open vial/unused doses,1082,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,shipment_issue,Shipment or delivery issue,670,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,inventory_discrepancy,Inventory discrepancy,837,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,administration_error,Administration error,430,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,provider_closed_or_inactive,Provider closed/inactive,376,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,manufacturer_recall_or_return,Manufacturer recall/return,171,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-003,other_explained,Other explained incident,330,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,expired_doses,Expired doses,1894,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,cold_chain_excursion,Cold-chain temperature excursion,1589,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,storage_unit_malfunction,Storage unit malfunction,1193,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,open_vial_waste,Open vial/unused doses,1086,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,shipment_issue,Shipment or delivery issue,677,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,inventory_discrepancy,Inventory discrepancy,895,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,administration_error,Administration error,428,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,provider_closed_or_inactive,Provider closed/inactive,342,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,manufacturer_recall_or_return,Manufacturer recall/return,171,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-004,other_explained,Other explained incident,335,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,expired_doses,Expired doses,2609,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,cold_chain_excursion,Cold-chain temperature excursion,2084,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,storage_unit_malfunction,Storage unit malfunction,1609,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,open_vial_waste,Open vial/unused doses,1470,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,shipment_issue,Shipment or delivery issue,952,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,inventory_discrepancy,Inventory discrepancy,1176,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,administration_error,Administration error,605,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,provider_closed_or_inactive,Provider closed/inactive,493,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,manufacturer_recall_or_return,Manufacturer recall/return,218,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-005,other_explained,Other explained incident,453,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,expired_doses,Expired doses,3070,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,cold_chain_excursion,Cold-chain temperature excursion,2509,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,storage_unit_malfunction,Storage unit malfunction,1914,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,open_vial_waste,Open vial/unused doses,1870,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,shipment_issue,Shipment or delivery issue,1135,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,inventory_discrepancy,Inventory discrepancy,1373,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,administration_error,Administration error,682,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,provider_closed_or_inactive,Provider closed/inactive,553,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,manufacturer_recall_or_return,Manufacturer recall/return,269,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-006,other_explained,Other explained incident,558,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,expired_doses,Expired doses,1482,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,cold_chain_excursion,Cold-chain temperature excursion,1267,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,storage_unit_malfunction,Storage unit malfunction,920,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,open_vial_waste,Open vial/unused doses,887,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,shipment_issue,Shipment or delivery issue,540,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,inventory_discrepancy,Inventory discrepancy,728,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,administration_error,Administration error,343,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,provider_closed_or_inactive,Provider closed/inactive,266,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,manufacturer_recall_or_return,Manufacturer recall/return,140,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-007,other_explained,Other explained incident,270,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,expired_doses,Expired doses,711,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,cold_chain_excursion,Cold-chain temperature excursion,512,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,storage_unit_malfunction,Storage unit malfunction,447,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,open_vial_waste,Open vial/unused doses,384,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,shipment_issue,Shipment or delivery issue,234,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,inventory_discrepancy,Inventory discrepancy,314,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,administration_error,Administration error,159,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,provider_closed_or_inactive,Provider closed/inactive,143,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,manufacturer_recall_or_return,Manufacturer recall/return,70,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-008,other_explained,Other explained incident,115,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,expired_doses,Expired doses,3903,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,cold_chain_excursion,Cold-chain temperature excursion,3281,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,storage_unit_malfunction,Storage unit malfunction,2543,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,open_vial_waste,Open vial/unused doses,2280,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,shipment_issue,Shipment or delivery issue,1429,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,inventory_discrepancy,Inventory discrepancy,1795,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,administration_error,Administration error,869,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,provider_closed_or_inactive,Provider closed/inactive,712,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,manufacturer_recall_or_return,Manufacturer recall/return,357,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-009,other_explained,Other explained incident,699,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,expired_doses,Expired doses,1910,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,cold_chain_excursion,Cold-chain temperature excursion,1501,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,storage_unit_malfunction,Storage unit malfunction,1186,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,open_vial_waste,Open vial/unused doses,1112,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,shipment_issue,Shipment or delivery issue,714,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,inventory_discrepancy,Inventory discrepancy,891,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,administration_error,Administration error,415,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,provider_closed_or_inactive,Provider closed/inactive,309,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,manufacturer_recall_or_return,Manufacturer recall/return,164,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-010,other_explained,Other explained incident,366,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,expired_doses,Expired doses,3696,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,cold_chain_excursion,Cold-chain temperature excursion,3052,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,storage_unit_malfunction,Storage unit malfunction,2323,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,open_vial_waste,Open vial/unused doses,2090,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,shipment_issue,Shipment or delivery issue,1378,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,inventory_discrepancy,Inventory discrepancy,1634,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,administration_error,Administration error,819,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,provider_closed_or_inactive,Provider closed/inactive,693,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,manufacturer_recall_or_return,Manufacturer recall/return,368,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-011,other_explained,Other explained incident,603,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,expired_doses,Expired doses,1988,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,cold_chain_excursion,Cold-chain temperature excursion,1595,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,storage_unit_malfunction,Storage unit malfunction,1274,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,open_vial_waste,Open vial/unused doses,1211,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,shipment_issue,Shipment or delivery issue,721,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,inventory_discrepancy,Inventory discrepancy,931,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,administration_error,Administration error,455,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,provider_closed_or_inactive,Provider closed/inactive,339,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,manufacturer_recall_or_return,Manufacturer recall/return,186,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-012,other_explained,Other explained incident,377,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,expired_doses,Expired doses,5188,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,cold_chain_excursion,Cold-chain temperature excursion,4264,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,storage_unit_malfunction,Storage unit malfunction,3313,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,open_vial_waste,Open vial/unused doses,3087,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,shipment_issue,Shipment or delivery issue,1916,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,inventory_discrepancy,Inventory discrepancy,2378,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,administration_error,Administration error,1126,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,provider_closed_or_inactive,Provider closed/inactive,929,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,manufacturer_recall_or_return,Manufacturer recall/return,473,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-013,other_explained,Other explained incident,971,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,expired_doses,Expired doses,1820,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,cold_chain_excursion,Cold-chain temperature excursion,1455,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,storage_unit_malfunction,Storage unit malfunction,1121,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,open_vial_waste,Open vial/unused doses,1065,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,shipment_issue,Shipment or delivery issue,683,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,inventory_discrepancy,Inventory discrepancy,828,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,administration_error,Administration error,438,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,provider_closed_or_inactive,Provider closed/inactive,311,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,manufacturer_recall_or_return,Manufacturer recall/return,150,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-014,other_explained,Other explained incident,332,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,expired_doses,Expired doses,3919,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,cold_chain_excursion,Cold-chain temperature excursion,3199,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,storage_unit_malfunction,Storage unit malfunction,2521,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,open_vial_waste,Open vial/unused doses,2370,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,shipment_issue,Shipment or delivery issue,1394,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,inventory_discrepancy,Inventory discrepancy,1739,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,administration_error,Administration error,897,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,provider_closed_or_inactive,Provider closed/inactive,741,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,manufacturer_recall_or_return,Manufacturer recall/return,383,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-015,other_explained,Other explained incident,687,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,expired_doses,Expired doses,2170,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,cold_chain_excursion,Cold-chain temperature excursion,1829,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,storage_unit_malfunction,Storage unit malfunction,1467,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,open_vial_waste,Open vial/unused doses,1268,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,shipment_issue,Shipment or delivery issue,838,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,inventory_discrepancy,Inventory discrepancy,1033,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,administration_error,Administration error,514,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,provider_closed_or_inactive,Provider closed/inactive,445,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,manufacturer_recall_or_return,Manufacturer recall/return,205,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-016,other_explained,Other explained incident,393,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,expired_doses,Expired doses,1296,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,cold_chain_excursion,Cold-chain temperature excursion,1105,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,storage_unit_malfunction,Storage unit malfunction,852,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,open_vial_waste,Open vial/unused doses,781,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,shipment_issue,Shipment or delivery issue,476,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,inventory_discrepancy,Inventory discrepancy,583,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,administration_error,Administration error,303,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,provider_closed_or_inactive,Provider closed/inactive,240,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,manufacturer_recall_or_return,Manufacturer recall/return,110,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-017,other_explained,Other explained incident,206,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,expired_doses,Expired doses,1708,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,cold_chain_excursion,Cold-chain temperature excursion,1435,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,storage_unit_malfunction,Storage unit malfunction,1104,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,open_vial_waste,Open vial/unused doses,953,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,shipment_issue,Shipment or delivery issue,609,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,inventory_discrepancy,Inventory discrepancy,761,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,administration_error,Administration error,397,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,provider_closed_or_inactive,Provider closed/inactive,319,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,manufacturer_recall_or_return,Manufacturer recall/return,150,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-018,other_explained,Other explained incident,306,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,expired_doses,Expired doses,1912,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,cold_chain_excursion,Cold-chain temperature excursion,1574,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,storage_unit_malfunction,Storage unit malfunction,1139,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,open_vial_waste,Open vial/unused doses,1061,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,shipment_issue,Shipment or delivery issue,650,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,inventory_discrepancy,Inventory discrepancy,900,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,administration_error,Administration error,415,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,provider_closed_or_inactive,Provider closed/inactive,346,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,manufacturer_recall_or_return,Manufacturer recall/return,184,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-019,other_explained,Other explained incident,337,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,expired_doses,Expired doses,1934,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,cold_chain_excursion,Cold-chain temperature excursion,1624,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,storage_unit_malfunction,Storage unit malfunction,1170,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,open_vial_waste,Open vial/unused doses,1130,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,shipment_issue,Shipment or delivery issue,704,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,inventory_discrepancy,Inventory discrepancy,930,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,administration_error,Administration error,436,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,provider_closed_or_inactive,Provider closed/inactive,327,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,manufacturer_recall_or_return,Manufacturer recall/return,172,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-020,other_explained,Other explained incident,367,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,expired_doses,Expired doses,1159,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,cold_chain_excursion,Cold-chain temperature excursion,944,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,storage_unit_malfunction,Storage unit malfunction,753,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,open_vial_waste,Open vial/unused doses,679,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,shipment_issue,Shipment or delivery issue,405,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,inventory_discrepancy,Inventory discrepancy,553,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,administration_error,Administration error,255,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,provider_closed_or_inactive,Provider closed/inactive,193,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,manufacturer_recall_or_return,Manufacturer recall/return,98,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-021,other_explained,Other explained incident,194,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,expired_doses,Expired doses,1676,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,cold_chain_excursion,Cold-chain temperature excursion,1377,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,storage_unit_malfunction,Storage unit malfunction,1120,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,open_vial_waste,Open vial/unused doses,956,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,shipment_issue,Shipment or delivery issue,622,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,inventory_discrepancy,Inventory discrepancy,792,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,administration_error,Administration error,386,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,provider_closed_or_inactive,Provider closed/inactive,309,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,manufacturer_recall_or_return,Manufacturer recall/return,165,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-022,other_explained,Other explained incident,331,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,expired_doses,Expired doses,1353,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,cold_chain_excursion,Cold-chain temperature excursion,1038,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,storage_unit_malfunction,Storage unit malfunction,816,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,open_vial_waste,Open vial/unused doses,825,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,shipment_issue,Shipment or delivery issue,469,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,inventory_discrepancy,Inventory discrepancy,562,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,administration_error,Administration error,337,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,provider_closed_or_inactive,Provider closed/inactive,261,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,manufacturer_recall_or_return,Manufacturer recall/return,117,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-023,other_explained,Other explained incident,253,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,expired_doses,Expired doses,1722,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,cold_chain_excursion,Cold-chain temperature excursion,1430,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,storage_unit_malfunction,Storage unit malfunction,1141,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,open_vial_waste,Open vial/unused doses,1139,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,shipment_issue,Shipment or delivery issue,610,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,inventory_discrepancy,Inventory discrepancy,798,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,administration_error,Administration error,397,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,provider_closed_or_inactive,Provider closed/inactive,349,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,manufacturer_recall_or_return,Manufacturer recall/return,153,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-024,other_explained,Other explained incident,336,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,expired_doses,Expired doses,2567,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,cold_chain_excursion,Cold-chain temperature excursion,2137,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,storage_unit_malfunction,Storage unit malfunction,1611,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,open_vial_waste,Open vial/unused doses,1482,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,shipment_issue,Shipment or delivery issue,916,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,inventory_discrepancy,Inventory discrepancy,1136,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,administration_error,Administration error,580,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,provider_closed_or_inactive,Provider closed/inactive,445,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,manufacturer_recall_or_return,Manufacturer recall/return,242,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-025,other_explained,Other explained incident,484,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,expired_doses,Expired doses,2403,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,cold_chain_excursion,Cold-chain temperature excursion,1898,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,storage_unit_malfunction,Storage unit malfunction,1471,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,open_vial_waste,Open vial/unused doses,1379,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,shipment_issue,Shipment or delivery issue,825,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,inventory_discrepancy,Inventory discrepancy,1047,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,administration_error,Administration error,512,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,provider_closed_or_inactive,Provider closed/inactive,396,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,manufacturer_recall_or_return,Manufacturer recall/return,193,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-026,other_explained,Other explained incident,378,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,expired_doses,Expired doses,1514,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,cold_chain_excursion,Cold-chain temperature excursion,1252,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,storage_unit_malfunction,Storage unit malfunction,958,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,open_vial_waste,Open vial/unused doses,958,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,shipment_issue,Shipment or delivery issue,533,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,inventory_discrepancy,Inventory discrepancy,683,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,administration_error,Administration error,338,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,provider_closed_or_inactive,Provider closed/inactive,261,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,manufacturer_recall_or_return,Manufacturer recall/return,149,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-027,other_explained,Other explained incident,291,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,expired_doses,Expired doses,1628,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,cold_chain_excursion,Cold-chain temperature excursion,1359,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,storage_unit_malfunction,Storage unit malfunction,1002,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,open_vial_waste,Open vial/unused doses,950,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,shipment_issue,Shipment or delivery issue,552,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,inventory_discrepancy,Inventory discrepancy,800,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,administration_error,Administration error,349,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,provider_closed_or_inactive,Provider closed/inactive,292,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,manufacturer_recall_or_return,Manufacturer recall/return,142,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-028,other_explained,Other explained incident,291,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,expired_doses,Expired doses,3439,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,cold_chain_excursion,Cold-chain temperature excursion,2771,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,storage_unit_malfunction,Storage unit malfunction,2289,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,open_vial_waste,Open vial/unused doses,2109,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,shipment_issue,Shipment or delivery issue,1273,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,inventory_discrepancy,Inventory discrepancy,1597,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,administration_error,Administration error,813,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,provider_closed_or_inactive,Provider closed/inactive,604,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,manufacturer_recall_or_return,Manufacturer recall/return,321,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-029,other_explained,Other explained incident,619,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,expired_doses,Expired doses,3851,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,cold_chain_excursion,Cold-chain temperature excursion,3152,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,storage_unit_malfunction,Storage unit malfunction,2449,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,open_vial_waste,Open vial/unused doses,2231,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,shipment_issue,Shipment or delivery issue,1405,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,inventory_discrepancy,Inventory discrepancy,1769,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,administration_error,Administration error,849,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,provider_closed_or_inactive,Provider closed/inactive,698,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,manufacturer_recall_or_return,Manufacturer recall/return,341,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-030,other_explained,Other explained incident,676,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,expired_doses,Expired doses,1425,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,cold_chain_excursion,Cold-chain temperature excursion,1215,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,storage_unit_malfunction,Storage unit malfunction,970,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,open_vial_waste,Open vial/unused doses,904,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,shipment_issue,Shipment or delivery issue,550,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,inventory_discrepancy,Inventory discrepancy,725,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,administration_error,Administration error,317,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,provider_closed_or_inactive,Provider closed/inactive,260,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,manufacturer_recall_or_return,Manufacturer recall/return,134,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-031,other_explained,Other explained incident,269,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,expired_doses,Expired doses,2576,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,cold_chain_excursion,Cold-chain temperature excursion,2086,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,storage_unit_malfunction,Storage unit malfunction,1639,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,open_vial_waste,Open vial/unused doses,1519,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,shipment_issue,Shipment or delivery issue,924,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,inventory_discrepancy,Inventory discrepancy,1167,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,administration_error,Administration error,582,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,provider_closed_or_inactive,Provider closed/inactive,488,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,manufacturer_recall_or_return,Manufacturer recall/return,213,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-032,other_explained,Other explained incident,488,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,expired_doses,Expired doses,808,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,cold_chain_excursion,Cold-chain temperature excursion,617,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,storage_unit_malfunction,Storage unit malfunction,513,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,open_vial_waste,Open vial/unused doses,434,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,shipment_issue,Shipment or delivery issue,307,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,inventory_discrepancy,Inventory discrepancy,353,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,administration_error,Administration error,182,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,provider_closed_or_inactive,Provider closed/inactive,135,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,manufacturer_recall_or_return,Manufacturer recall/return,61,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-033,other_explained,Other explained incident,152,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,expired_doses,Expired doses,2541,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,cold_chain_excursion,Cold-chain temperature excursion,2112,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,storage_unit_malfunction,Storage unit malfunction,1623,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,open_vial_waste,Open vial/unused doses,1447,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,shipment_issue,Shipment or delivery issue,851,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,inventory_discrepancy,Inventory discrepancy,1182,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,administration_error,Administration error,579,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,provider_closed_or_inactive,Provider closed/inactive,429,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,manufacturer_recall_or_return,Manufacturer recall/return,212,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-034,other_explained,Other explained incident,466,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,expired_doses,Expired doses,2544,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,cold_chain_excursion,Cold-chain temperature excursion,2076,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,storage_unit_malfunction,Storage unit malfunction,1653,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,open_vial_waste,Open vial/unused doses,1511,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,shipment_issue,Shipment or delivery issue,941,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,inventory_discrepancy,Inventory discrepancy,1119,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,administration_error,Administration error,613,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,provider_closed_or_inactive,Provider closed/inactive,441,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,manufacturer_recall_or_return,Manufacturer recall/return,264,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-035,other_explained,Other explained incident,436,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,expired_doses,Expired doses,2671,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,cold_chain_excursion,Cold-chain temperature excursion,2129,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,storage_unit_malfunction,Storage unit malfunction,1724,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,open_vial_waste,Open vial/unused doses,1685,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,shipment_issue,Shipment or delivery issue,943,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,inventory_discrepancy,Inventory discrepancy,1239,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,administration_error,Administration error,578,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,provider_closed_or_inactive,Provider closed/inactive,471,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,manufacturer_recall_or_return,Manufacturer recall/return,253,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-036,other_explained,Other explained incident,500,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,expired_doses,Expired doses,1315,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,cold_chain_excursion,Cold-chain temperature excursion,1055,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,storage_unit_malfunction,Storage unit malfunction,789,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,open_vial_waste,Open vial/unused doses,821,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,shipment_issue,Shipment or delivery issue,466,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,inventory_discrepancy,Inventory discrepancy,625,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,administration_error,Administration error,314,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,provider_closed_or_inactive,Provider closed/inactive,265,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,manufacturer_recall_or_return,Manufacturer recall/return,110,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-037,other_explained,Other explained incident,248,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,expired_doses,Expired doses,4213,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,cold_chain_excursion,Cold-chain temperature excursion,3508,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,storage_unit_malfunction,Storage unit malfunction,2682,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,open_vial_waste,Open vial/unused doses,2420,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,shipment_issue,Shipment or delivery issue,1563,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,inventory_discrepancy,Inventory discrepancy,1944,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,administration_error,Administration error,871,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,provider_closed_or_inactive,Provider closed/inactive,742,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,manufacturer_recall_or_return,Manufacturer recall/return,372,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-038,other_explained,Other explained incident,768,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,expired_doses,Expired doses,1758,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,cold_chain_excursion,Cold-chain temperature excursion,1446,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,storage_unit_malfunction,Storage unit malfunction,1096,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,open_vial_waste,Open vial/unused doses,1065,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,shipment_issue,Shipment or delivery issue,616,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,inventory_discrepancy,Inventory discrepancy,796,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,administration_error,Administration error,402,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,provider_closed_or_inactive,Provider closed/inactive,312,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,manufacturer_recall_or_return,Manufacturer recall/return,142,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-039,other_explained,Other explained incident,305,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,expired_doses,Expired doses,997,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,cold_chain_excursion,Cold-chain temperature excursion,838,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,storage_unit_malfunction,Storage unit malfunction,627,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,open_vial_waste,Open vial/unused doses,627,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,shipment_issue,Shipment or delivery issue,386,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,inventory_discrepancy,Inventory discrepancy,505,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,administration_error,Administration error,224,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,provider_closed_or_inactive,Provider closed/inactive,198,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,manufacturer_recall_or_return,Manufacturer recall/return,99,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-040,other_explained,Other explained incident,187,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,expired_doses,Expired doses,1264,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,cold_chain_excursion,Cold-chain temperature excursion,988,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,storage_unit_malfunction,Storage unit malfunction,834,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,open_vial_waste,Open vial/unused doses,778,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,shipment_issue,Shipment or delivery issue,497,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,inventory_discrepancy,Inventory discrepancy,596,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,administration_error,Administration error,300,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,provider_closed_or_inactive,Provider closed/inactive,263,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,manufacturer_recall_or_return,Manufacturer recall/return,116,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-041,other_explained,Other explained incident,243,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,expired_doses,Expired doses,917,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,cold_chain_excursion,Cold-chain temperature excursion,667,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,storage_unit_malfunction,Storage unit malfunction,526,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,open_vial_waste,Open vial/unused doses,485,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,shipment_issue,Shipment or delivery issue,314,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,inventory_discrepancy,Inventory discrepancy,374,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,administration_error,Administration error,176,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,provider_closed_or_inactive,Provider closed/inactive,150,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,manufacturer_recall_or_return,Manufacturer recall/return,81,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-042,other_explained,Other explained incident,163,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,expired_doses,Expired doses,1727,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,cold_chain_excursion,Cold-chain temperature excursion,1410,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,storage_unit_malfunction,Storage unit malfunction,1096,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,open_vial_waste,Open vial/unused doses,1077,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,shipment_issue,Shipment or delivery issue,668,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,inventory_discrepancy,Inventory discrepancy,728,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,administration_error,Administration error,403,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,provider_closed_or_inactive,Provider closed/inactive,331,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,manufacturer_recall_or_return,Manufacturer recall/return,198,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-043,other_explained,Other explained incident,315,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,expired_doses,Expired doses,1568,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,cold_chain_excursion,Cold-chain temperature excursion,1278,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,storage_unit_malfunction,Storage unit malfunction,1012,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,open_vial_waste,Open vial/unused doses,942,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,shipment_issue,Shipment or delivery issue,567,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,inventory_discrepancy,Inventory discrepancy,720,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,administration_error,Administration error,364,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,provider_closed_or_inactive,Provider closed/inactive,292,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,manufacturer_recall_or_return,Manufacturer recall/return,157,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-044,other_explained,Other explained incident,292,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,expired_doses,Expired doses,2975,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,cold_chain_excursion,Cold-chain temperature excursion,2442,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,storage_unit_malfunction,Storage unit malfunction,1963,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,open_vial_waste,Open vial/unused doses,1816,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,shipment_issue,Shipment or delivery issue,1048,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,inventory_discrepancy,Inventory discrepancy,1378,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,administration_error,Administration error,695,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,provider_closed_or_inactive,Provider closed/inactive,576,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,manufacturer_recall_or_return,Manufacturer recall/return,286,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-045,other_explained,Other explained incident,578,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,expired_doses,Expired doses,1649,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,cold_chain_excursion,Cold-chain temperature excursion,1402,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,storage_unit_malfunction,Storage unit malfunction,991,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,open_vial_waste,Open vial/unused doses,973,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,shipment_issue,Shipment or delivery issue,594,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,inventory_discrepancy,Inventory discrepancy,803,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,administration_error,Administration error,370,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,provider_closed_or_inactive,Provider closed/inactive,300,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,manufacturer_recall_or_return,Manufacturer recall/return,146,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-046,other_explained,Other explained incident,298,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,expired_doses,Expired doses,1888,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,cold_chain_excursion,Cold-chain temperature excursion,1468,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,storage_unit_malfunction,Storage unit malfunction,1164,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,open_vial_waste,Open vial/unused doses,1116,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,shipment_issue,Shipment or delivery issue,709,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,inventory_discrepancy,Inventory discrepancy,841,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,administration_error,Administration error,435,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,provider_closed_or_inactive,Provider closed/inactive,310,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,manufacturer_recall_or_return,Manufacturer recall/return,169,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-047,other_explained,Other explained incident,347,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,expired_doses,Expired doses,917,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,cold_chain_excursion,Cold-chain temperature excursion,755,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,storage_unit_malfunction,Storage unit malfunction,608,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,open_vial_waste,Open vial/unused doses,520,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,shipment_issue,Shipment or delivery issue,338,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,inventory_discrepancy,Inventory discrepancy,395,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,administration_error,Administration error,215,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,provider_closed_or_inactive,Provider closed/inactive,156,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,manufacturer_recall_or_return,Manufacturer recall/return,79,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-048,other_explained,Other explained incident,182,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,expired_doses,Expired doses,3555,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,cold_chain_excursion,Cold-chain temperature excursion,2973,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,storage_unit_malfunction,Storage unit malfunction,2200,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,open_vial_waste,Open vial/unused doses,2050,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,shipment_issue,Shipment or delivery issue,1283,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,inventory_discrepancy,Inventory discrepancy,1606,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,administration_error,Administration error,806,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,provider_closed_or_inactive,Provider closed/inactive,675,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,manufacturer_recall_or_return,Manufacturer recall/return,314,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-049,other_explained,Other explained incident,653,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,expired_doses,Expired doses,740,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,cold_chain_excursion,Cold-chain temperature excursion,644,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,storage_unit_malfunction,Storage unit malfunction,528,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,open_vial_waste,Open vial/unused doses,452,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,shipment_issue,Shipment or delivery issue,309,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,inventory_discrepancy,Inventory discrepancy,406,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,administration_error,Administration error,205,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,provider_closed_or_inactive,Provider closed/inactive,151,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,manufacturer_recall_or_return,Manufacturer recall/return,74,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-050,other_explained,Other explained incident,113,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,expired_doses,Expired doses,1600,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,cold_chain_excursion,Cold-chain temperature excursion,1316,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,storage_unit_malfunction,Storage unit malfunction,996,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,open_vial_waste,Open vial/unused doses,933,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,shipment_issue,Shipment or delivery issue,553,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,inventory_discrepancy,Inventory discrepancy,727,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,administration_error,Administration error,357,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,provider_closed_or_inactive,Provider closed/inactive,293,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,manufacturer_recall_or_return,Manufacturer recall/return,166,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-051,other_explained,Other explained incident,328,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,expired_doses,Expired doses,1584,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,cold_chain_excursion,Cold-chain temperature excursion,1357,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,storage_unit_malfunction,Storage unit malfunction,1025,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,open_vial_waste,Open vial/unused doses,983,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,shipment_issue,Shipment or delivery issue,576,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,inventory_discrepancy,Inventory discrepancy,753,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,administration_error,Administration error,389,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,provider_closed_or_inactive,Provider closed/inactive,296,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,manufacturer_recall_or_return,Manufacturer recall/return,136,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-052,other_explained,Other explained incident,275,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,expired_doses,Expired doses,1050,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,cold_chain_excursion,Cold-chain temperature excursion,901,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,storage_unit_malfunction,Storage unit malfunction,704,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,open_vial_waste,Open vial/unused doses,670,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,shipment_issue,Shipment or delivery issue,360,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,inventory_discrepancy,Inventory discrepancy,557,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,administration_error,Administration error,230,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,provider_closed_or_inactive,Provider closed/inactive,213,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,manufacturer_recall_or_return,Manufacturer recall/return,109,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-053,other_explained,Other explained incident,222,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,expired_doses,Expired doses,1145,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,cold_chain_excursion,Cold-chain temperature excursion,984,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,storage_unit_malfunction,Storage unit malfunction,704,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,open_vial_waste,Open vial/unused doses,680,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,shipment_issue,Shipment or delivery issue,406,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,inventory_discrepancy,Inventory discrepancy,512,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,administration_error,Administration error,256,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,provider_closed_or_inactive,Provider closed/inactive,209,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,manufacturer_recall_or_return,Manufacturer recall/return,117,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-054,other_explained,Other explained incident,203,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,expired_doses,Expired doses,2647,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,cold_chain_excursion,Cold-chain temperature excursion,2218,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,storage_unit_malfunction,Storage unit malfunction,1744,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,open_vial_waste,Open vial/unused doses,1524,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,shipment_issue,Shipment or delivery issue,1003,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,inventory_discrepancy,Inventory discrepancy,1255,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,administration_error,Administration error,637,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,provider_closed_or_inactive,Provider closed/inactive,467,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,manufacturer_recall_or_return,Manufacturer recall/return,256,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-055,other_explained,Other explained incident,490,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,expired_doses,Expired doses,1170,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,cold_chain_excursion,Cold-chain temperature excursion,961,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,storage_unit_malfunction,Storage unit malfunction,724,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,open_vial_waste,Open vial/unused doses,703,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,shipment_issue,Shipment or delivery issue,399,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,inventory_discrepancy,Inventory discrepancy,555,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,administration_error,Administration error,264,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,provider_closed_or_inactive,Provider closed/inactive,212,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,manufacturer_recall_or_return,Manufacturer recall/return,104,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-056,other_explained,Other explained incident,202,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,expired_doses,Expired doses,672,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,cold_chain_excursion,Cold-chain temperature excursion,552,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,storage_unit_malfunction,Storage unit malfunction,421,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,open_vial_waste,Open vial/unused doses,402,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,shipment_issue,Shipment or delivery issue,273,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,inventory_discrepancy,Inventory discrepancy,266,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,administration_error,Administration error,160,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,provider_closed_or_inactive,Provider closed/inactive,113,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,manufacturer_recall_or_return,Manufacturer recall/return,56,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-057,other_explained,Other explained incident,131,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,expired_doses,Expired doses,265,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,cold_chain_excursion,Cold-chain temperature excursion,216,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,storage_unit_malfunction,Storage unit malfunction,177,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,open_vial_waste,Open vial/unused doses,124,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,shipment_issue,Shipment or delivery issue,93,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,inventory_discrepancy,Inventory discrepancy,116,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,administration_error,Administration error,47,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,provider_closed_or_inactive,Provider closed/inactive,44,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,manufacturer_recall_or_return,Manufacturer recall/return,21,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-058,other_explained,Other explained incident,52,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,expired_doses,Expired doses,153,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,cold_chain_excursion,Cold-chain temperature excursion,136,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,storage_unit_malfunction,Storage unit malfunction,116,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,open_vial_waste,Open vial/unused doses,94,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,shipment_issue,Shipment or delivery issue,59,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,inventory_discrepancy,Inventory discrepancy,65,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,administration_error,Administration error,47,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,provider_closed_or_inactive,Provider closed/inactive,25,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,manufacturer_recall_or_return,Manufacturer recall/return,16,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-059,other_explained,Other explained incident,36,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,expired_doses,Expired doses,165,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,cold_chain_excursion,Cold-chain temperature excursion,140,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,storage_unit_malfunction,Storage unit malfunction,96,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,open_vial_waste,Open vial/unused doses,82,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,shipment_issue,Shipment or delivery issue,55,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,inventory_discrepancy,Inventory discrepancy,71,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,administration_error,Administration error,36,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,provider_closed_or_inactive,Provider closed/inactive,16,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,manufacturer_recall_or_return,Manufacturer recall/return,13,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-060,other_explained,Other explained incident,28,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,expired_doses,Expired doses,396,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,cold_chain_excursion,Cold-chain temperature excursion,284,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,storage_unit_malfunction,Storage unit malfunction,245,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,open_vial_waste,Open vial/unused doses,222,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,shipment_issue,Shipment or delivery issue,150,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,inventory_discrepancy,Inventory discrepancy,187,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,administration_error,Administration error,89,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,provider_closed_or_inactive,Provider closed/inactive,69,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,manufacturer_recall_or_return,Manufacturer recall/return,29,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-061,other_explained,Other explained incident,53,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,expired_doses,Expired doses,339,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,cold_chain_excursion,Cold-chain temperature excursion,257,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,storage_unit_malfunction,Storage unit malfunction,198,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,open_vial_waste,Open vial/unused doses,195,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,shipment_issue,Shipment or delivery issue,115,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,inventory_discrepancy,Inventory discrepancy,159,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,administration_error,Administration error,77,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,provider_closed_or_inactive,Provider closed/inactive,65,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,manufacturer_recall_or_return,Manufacturer recall/return,35,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-062,other_explained,Other explained incident,47,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,expired_doses,Expired doses,211,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,cold_chain_excursion,Cold-chain temperature excursion,162,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,storage_unit_malfunction,Storage unit malfunction,117,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,open_vial_waste,Open vial/unused doses,110,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,shipment_issue,Shipment or delivery issue,89,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,inventory_discrepancy,Inventory discrepancy,86,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,administration_error,Administration error,37,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,provider_closed_or_inactive,Provider closed/inactive,42,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,manufacturer_recall_or_return,Manufacturer recall/return,15,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-063,other_explained,Other explained incident,32,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,expired_doses,Expired doses,285,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,cold_chain_excursion,Cold-chain temperature excursion,229,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,storage_unit_malfunction,Storage unit malfunction,193,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,open_vial_waste,Open vial/unused doses,172,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,shipment_issue,Shipment or delivery issue,84,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,inventory_discrepancy,Inventory discrepancy,123,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,administration_error,Administration error,73,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,provider_closed_or_inactive,Provider closed/inactive,57,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,manufacturer_recall_or_return,Manufacturer recall/return,17,0,,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
+2024,SYN-AWD-064,other_explained,Other explained incident,42,1,Synthetic explanation for other incident category.,SYNTHETIC_PORTFOLIO_DATA_NOT_REAL_CDC_OR_AWARDEE_DATA
