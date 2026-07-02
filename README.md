@@ -1,9 +1,6 @@
 # Vaccine Management Survey Analytics
 
-**Author:** Aly Drame, MD, MPH, MBA  
-**Domain:** Immunization program management | VFC / IQIP oversight | Public health surveillance  
-**Stack:** Python · SAS · SQL (SQLite) · Power BI DAX  
-**Data:** Synthetic — generated solely for portfolio demonstration. No real CDC, VFC, PEAR, VTrckS, awardee, provider, or patient data are included.
+*By Aly Drame, MD, MPH, MBA.* Awardee-level vaccine-management monitoring (Python / SAS / SQLite / Power BI) over a synthetic Vaccine Management Survey: staffing gaps, waste-to-order ratios, storage/handling incidents, and replacement-policy rules. No real CDC, VFC, PEAR, VTrckS, awardee, provider, or patient data are included.
 
 ---
 
@@ -48,7 +45,7 @@ The analysis covers 64 synthetic awardees across six program-monitoring domains:
 | Dengue | 7.6% |
 | Nirsevimab | 6.0% |
 
-Higher loss ratios are concentrated in seasonal products and lower-volume newer vaccines — consistent with real-world program monitoring patterns.
+Higher loss ratios cluster in seasonal and newer products; influenza is both the largest-volume and the highest-loss product, so the pattern reflects demand predictability rather than order size.
 
 ---
 
