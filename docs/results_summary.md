@@ -27,22 +27,22 @@ Key validation counts:
 
 ## Highest synthetic vaccine-loss ratios by vaccine type
 
-| vaccine_type   |   total_doses_ordered |   total_doses_wasted |   loss_pct |
-|:---------------|----------------------:|---------------------:|-----------:|
-| Influenza      |               1338571 |               147188 |     10.996 |
-| COVID-19       |                685742 |                71814 |     10.472 |
-| Mpox           |                  5767 |                  484 |      8.393 |
-| Dengue         |                 13425 |                 1025 |      7.635 |
-| Nirsevimab     |                392009 |                23524 |      6.001 |
-| RSV Maternal   |                140797 |                 7405 |      5.259 |
-| MenABCWY       |                 50822 |                 2644 |      5.202 |
-| HepA-HepB      |                 69255 |                 3001 |      4.333 |
-| MMRV           |                160295 |                 6936 |      4.327 |
-| Td             |                 94219 |                 4059 |      4.308 |
+| Vaccine type | Doses ordered | Doses wasted | Loss % |
+|---|---:|---:|---:|
+| Influenza | 1,338,571 | 147,188 | 11.0 |
+| COVID-19 | 685,742 | 71,814 | 10.5 |
+| Mpox | 5,767 | 484 | 8.4 |
+| Dengue | 13,425 | 1,025 | 7.6 |
+| Nirsevimab | 392,009 | 23,524 | 6.0 |
+| RSV Maternal | 140,797 | 7,405 | 5.3 |
+| MenABCWY | 50,822 | 2,644 | 5.2 |
+| HepA-HepB | 69,255 | 3,001 | 4.3 |
+| MMRV | 160,295 | 6,936 | 4.3 |
+| Td | 94,219 | 4,059 | 4.3 |
 
 ## Interpretation
 
-The synthetic data show a coherent pattern: higher waste-to-order ratios are concentrated in vaccine categories with lower or more variable ordering volumes and in seasonal/newer products. The synthetic standard analysis excluding COVID-19 and influenza produces a lower vaccine-loss percentage than the all-vaccine estimate, which is expected because those two products were generated with higher synthetic waste-rate assumptions.
+The synthetic data concentrate the highest waste-to-order ratios in seasonal and newer products (influenza, COVID-19, Mpox, dengue, RSV/nirsevimab), where ordering is harder to match to actual uptake. Volume alone does not explain the pattern — influenza carries both the largest order volume and the highest loss ratio — so the driver here is product type and demand predictability, not order size. The synthetic standard analysis excluding COVID-19 and influenza produces a lower vaccine-loss percentage than the all-vaccine estimate, which is expected because those two products were generated with higher synthetic waste-rate assumptions.
 
 The reconciliation flag identifies synthetic awardees where the Section IV-style order/waste total does not equal the Section V-style incident-category total. In a real workflow, those records would require program follow-up, source-system review, or documentation of timing/source differences.
 
